@@ -1,3 +1,3 @@
 author=> ridhi 
 </br>
-i am ridhi
+this is my first git repository
